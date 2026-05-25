@@ -1,0 +1,32 @@
+IP                   : 2c0f:f0f8:8b2:7900:30e6:9c79:3979:f16
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Lome, Togo, Africa
+GeoLocation(lat, lon): 6.1724969, 1.2313618
+Currency             : CFA Franc BCEAO
+IP                   : 2c0f:f0f8:8b2:7900:30e6:9c79:3979:f16
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Lome, Togo, Africa
+GeoLocation(lat, lon): 6.1724969, 1.2313618
+Currency             : CFA Franc BCEAO
+IP                   : 2c0f:f0f8:8b2:7900:30e6:9c79:3979:f16
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Lome, Togo, Africa
+GeoLocation(lat, lon): 6.1724969, 1.2313618
+Currency             : CFA Franc BCEAO
+IP                   : 2c0f:f0f8:8b2:7900:30e6:9c79:3979:f16
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Lome, Togo, Africa
+GeoLocation(lat, lon): 6.1724969, 1.2313618
+Currency             : CFA Franc BCEAO
